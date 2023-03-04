@@ -1,0 +1,7 @@
+{
+    'max_word_length': 999,
+    'min_word_length': 0,
+    'min_count_of_words': 0,
+    'max_count_of_words': 99,
+    'black_list': ['reddit','upvote','karma']
+}

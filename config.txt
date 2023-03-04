@@ -1,0 +1,1 @@
+{'vk': {'access_token': '-','group_id': -}, 'reddit': {'client_id': '-', 'client_secret': '-', 'password': '-', 'user_agent': '-', 'username': '-'}}

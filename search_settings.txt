@@ -1,0 +1,1 @@
+{'reddit':{'name': '----','sort': 'hot','limit': 10},'vk':{'publish_delay': 60*5}, 'delay':3000, 'webhook_url':'----'}

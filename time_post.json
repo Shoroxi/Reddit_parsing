@@ -1,0 +1,15 @@
+{
+    "subreddit": [
+        {
+            "name": "----",
+            "time": 0.0,
+            "tg": "None"
+        }
+    ],
+    "bot": {
+        "Discord Posts": 0,
+        "VK Posts": 0,
+        "TG Posts": 0,
+        "All Posts": 0
+    }
+}
