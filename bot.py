@@ -1,9 +1,8 @@
 import asyncio
 import datetime
-
+import json
 import re
 import time
-import json
 
 from snippets.disc import Discord
 from snippets.reddit import Reddit
