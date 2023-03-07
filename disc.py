@@ -1,8 +1,6 @@
-from discord import Webhook
+import random
 import requests
 from dhooks import Webhook, Embed
-import random
-import aiohttp
 
 class Discord:
 
