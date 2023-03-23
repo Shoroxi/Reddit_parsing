@@ -1,2 +1,2 @@
 # Reddit_parsing
-praw wrapper / python / telegramBotpy / dhook
+praw / python / telegramBotpy / dhook / vk
